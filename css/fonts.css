@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'SF Pro Display';
+  	src: url(../fonts/SFProDisplay-Regular.woff2) format('woff2');
+  	font-weight: 400;
+}
+@font-face {
+	font-family: 'SF Pro Display';
+  	src: url(../fonts/SFProDisplay-Semibold.woff2) format('woff2');
+  	font-weight: 600;
+}
+@font-face {
+	font-family: 'SF Pro Display';
+  	src: url(../fonts/SFProDisplay-Bold.woff2) format('woff2');
+  	font-weight: 700;
+}
+@font-face {
+	font-family: 'space Age Cyrillic';
+  	src: url(../fonts/spaceAgeCyrillic.woff2) format('woff2');
+  	font-weight: 400;
+}
